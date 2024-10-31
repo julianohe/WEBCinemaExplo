@@ -1,0 +1,56 @@
+
+        WEB -- Cinema 
+  
+        O cinema é uma abordagem similar do site(MOVIECOM),
+        tentando atingir uma nova abordagem sobre o intreterimen-
+        to e dinamica deste projeto com junção de tecnologias de ponta...
+        Sobre tudo, busco atingir o objetivo de preender atenção eo inte-
+        resse sobre o conteudo....
+    
+    Tecnologia utilizadas no projeto
+    - Django 
+    - React
+    - docker
+
+    pacotes 
+
+    Feramentas 
+    - HTML 
+    - CSS
+
+    Pontos melhorados com acoplamento de outras tecnoogia ao cinema 
+
+                                                                    (desen.....web)
+
+    Banco de Dados 
+
+        variavel-tabela: 
+        
+        -Filme 
+            (idFILME)
+            nome
+            genero
+            duração
+            descrição
+            *sinopse
+            *treiller 
+
+        -Agendamento de Filmes
+            idAgendamento
+            fkFilme
+            Horarios
+
+        -bonus videlidade
+            id
+            fkFilme
+            acumulacao
+            resgate 
+            bonus do mes 
+            
+
+        funcional e não funcional
+        entrada e saida 
+
+    Entidade de Relacionamento 
+
+
